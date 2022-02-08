@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Sarvesh
 
+Currently studying in IIT Roorkee
+
 <!--
 **sarveshgangu/sarveshgangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
