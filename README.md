@@ -1,6 +1,14 @@
-### Hi there 👋, I am Sarvesh
+ ## Hey there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Sarvesh
 
-Currently studying in IIT Roorkee
+<a href="https://www.linkedin.com/in/gangu-sarveshwara-reddy-3a80a7201/ "><img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a>
+<a href="mailto:sarveshgangu@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+  <br />
+### About Me 🚀
+🎓I am currently a sophomore at IIT ROORKEE pursuing Computer science and enginnering.
+<br />
+![sarvesh's github stats](https://github-readme-stats.vercel.app/api?username=sarveshgangu&show_icons=true&hide_border=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sarveshgangu.sarveshgangu)
 
 <!--
 **sarveshgangu/sarveshgangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
